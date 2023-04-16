@@ -46,7 +46,7 @@ const DeleteProduct = ({ product }: { product: Product }) => {
               onClick={() => handleDelete(product.id)}
               className="btn btn-primary"
             >
-              Yes, I'm Sure!
+              Yes, I&apos;m Sure!
             </button>
           </div>
         </div>
